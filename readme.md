@@ -9,14 +9,14 @@ No installation required - simply use the provided executable file.
 ## How to Run
 
 ### Option 1: Double-Click Execution
-1. Navigate to `connect 4 bot for contest\dist`
+1. Navigate to `dist`
 2. Double-click `contest.exe` to run with default settings (human starts first, graphical interface)
 
 ### Option 2: Command Line Execution
 1. Open PowerShell or Command Prompt
 2. Navigate to the distribution folder:
    ```powershell
-   cd "connect 4 bot for contest\dist"
+   cd "dist"
    ```
 3. Run the executable with optional arguments:
    ```powershell
