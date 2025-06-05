@@ -1,7 +1,7 @@
-# Connect 4 Bot - Contest Edition
+# Connect 4 Bot
 
 ## Overview
-This is a Connect Four game that features the AI Agent in a human vs. AI gameplay mode, with options for both graphical and command-line interfaces.
+This is a Connect Four game that features my AI Agent in a human vs. AI gameplay mode, with options for both graphical and command-line interfaces. The user will be able to play against the AI Agent.
 
 ## Installation
 No installation required - simply use the provided executable file.
